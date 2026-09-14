@@ -40,3 +40,7 @@ This game specifically calls for a 2-button mouse and keyboard. Any other contro
 - While paused, you can select the items in your inventory on the left and then "EQUIP" them with the equip button.
 - While two or _more_ items are selected, you can also "RESTORE" (i.e. combine) them to randomly generate something more powerful. Gather one ⭐️⭐️ item or higher of each color to complete the mission. 
 - [See this table](https://github.com/cutout-studios/js13k-2026#item-effects) for a list of all item modifier explanations.
+
+### Disclaimer
+
+This being my first full digital game, among other resources I used a chatbot to learn the ropes. Additionally in the final five days of the jam, to get myself over the finish line. 
