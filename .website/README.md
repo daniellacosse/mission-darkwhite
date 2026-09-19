@@ -4,29 +4,28 @@ video: https://youtu.be/YLJcHYEQne4
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
 
+> 🚨 System Requirements 🚨
+> - [WebGPU Support](https://enablegpu.com/) - only Mac/Windows so far.
+> - A *two-button* mouse and keyboard!
+
 # MISSION: DARKWHITE
 MISSION: DARKWHITE is a genre experiment that combines rail shooting (e.g. StarFox) with ARPG loot mechanics (e.g. Diablo).
 
-## Premise
-An anonymous patron has hired you to acquire Chroma, found only in the sector of deep space known as the "prism." Gather every pigment to restore their color.
+Defeat the waves of incoming enemies. Similarly-colored items in the shape of _your_ ship will drop and float towards you - **keep a sharp eye out and grab them!** 
+_Items are key to beating the game_ - they power up your ship and can heal your character!
 
-In other words - defeat the waves of incoming enemies and equip the items they drop!
+You may find it tricky to aim - try firing with both weapons simultaneously!
 
-## How To Play
-[You'll first need to check that your specific browser supports WebGPU.](https://enablegpu.com/) - This may take a little setting up. If you see a black screen on load, _you likely don't have WebGPU support._
+## Controls
 
-### Controls
-This game specifically calls for a 2-button mouse and keyboard. Any other controller setup is going to be quite uncomfortable.
-
-#### Mouse
-- Move your mouse to aim.
-- Hold down your left button to fire your left weapon.
-- Hold down your right button to fire your right. You can (and should) fire both weapons at once.
-
-#### Keyboard
-- WASD to move.
-- Space to deflect incoming bullets back at your attackers!
-- F to pause the game and manage your ship.
+| Key | Action |
+| --- | --- |
+| Mouse Cursor | Aim |
+| `LMB` | Fire left weapon |
+| `RMB` | Fire right weapon |
+| `WASD` | Strafe |
+| `F` | Pause the game and manage collected items! |
+| `Space` | Deflect bullets back at your attackers. |
 
 ### Concepts
 - GAS governs everything you do - attacks and spin counters. The heavier (more KG) your ship has, the more expensive things get. You need to wait for your GAS to refill when you run out.
