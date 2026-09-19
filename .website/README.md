@@ -6,7 +6,7 @@ video: https://youtu.be/YLJcHYEQne4
 
 > 🚨 System Requirements 🚨
 > - [WebGPU Support](https://enablegpu.com/) - only Mac/Windows so far.
-> - A *two-button* mouse and keyboard!
+> - A keyboard and *two-button* mouse!
 
 # MISSION: DARKWHITE
 MISSION: DARKWHITE is a genre experiment that combines rail shooting (e.g. StarFox) with ARPG loot mechanics (e.g. Diablo).
