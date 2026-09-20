@@ -4,29 +4,29 @@ video: https://youtu.be/YLJcHYEQne4
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
 
+> 🚨 System Requirements 🚨
+> - [WebGPU Support](https://enablegpu.com/) - only Mac/Windows so far.
+> - A keyboard and *two-button* mouse!
+
 # MISSION: DARKWHITE
 MISSION: DARKWHITE is a genre experiment that combines rail shooting (e.g. StarFox) with ARPG loot mechanics (e.g. Diablo).
 
-## Premise
-An anonymous patron has hired you to acquire Chroma, found only in the sector of deep space known as the "prism." Gather every pigment to restore their color.
+Defeat the waves of incoming enemies. Similarly-colored items in the shape of _your_ ship will drop and float towards you - **keep a sharp eye out and grab them!** 
 
-In other words - defeat the waves of incoming enemies and equip the items they drop!
+_These items are key to beating the game_ - you can EQUIP them to power up your ship or use several to RESTORE your character to the full colors of the rainbow!
 
-## How To Play
-[You'll first need to check that your specific browser supports WebGPU.](https://enablegpu.com/) - This may take a little setting up. If you see a black screen on load, _you likely don't have WebGPU support._
+Also, you may find it tricky to aim - this is an intentional skill for you to master. Firing both weapons at the same time makes it easier!
 
-### Controls
-This game specifically calls for a 2-button mouse and keyboard. Any other controller setup is going to be quite uncomfortable.
+## Controls
 
-#### Mouse
-- Move your mouse to aim.
-- Hold down your left button to fire your left weapon.
-- Hold down your right button to fire your right. You can (and should) fire both weapons at once.
-
-#### Keyboard
-- WASD to move.
-- Space to deflect incoming bullets back at your attackers!
-- F to pause the game and manage your ship.
+| Input | Action |
+| --- | --- |
+| Mouse Cursor | Aim weapons |
+| `LMB` | Fire left weapon |
+| `RMB` | Fire right weapon |
+| `WASD` | Strafe Ship |
+| `Space` | Deflect bullets |
+| `F` | Pause the game and manage your collected items |
 
 ### Concepts
 - GAS governs everything you do - attacks and spin counters. The heavier (more KG) your ship has, the more expensive things get. You need to wait for your GAS to refill when you run out.
