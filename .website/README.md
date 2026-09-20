@@ -24,8 +24,8 @@ You may find it tricky to aim - try firing with both weapons simultaneously!
 | `LMB` | Fire left weapon |
 | `RMB` | Fire right weapon |
 | `WASD` | Strafe |
-| `F` | Pause the game and manage collected items! |
-| `Space` | Deflect bullets back at your attackers. |
+| `Space` | Deflect bullets back at your attackers |
+| `F` | Pause the game and manage your collected items |
 
 ### Concepts
 - GAS governs everything you do - attacks and spin counters. The heavier (more KG) your ship has, the more expensive things get. You need to wait for your GAS to refill when you run out.
