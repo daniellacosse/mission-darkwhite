@@ -12,7 +12,7 @@ video: https://youtu.be/YLJcHYEQne4
 MISSION: DARKWHITE is a genre experiment that combines rail shooting (e.g. StarFox) with ARPG loot mechanics (e.g. Diablo).
 
 Defeat the waves of incoming enemies. Similarly-colored items in the shape of _your_ ship will drop and float towards you - **keep a sharp eye out and grab them!** 
-_Items are key to beating the game_ - they power up your ship and can heal your character to full colors!
+_Items are key to beating the game_ - they power up your ship and will RESTORE your character to full colors!
 
 You may find it tricky to aim - try firing with both weapons simultaneously!
 
