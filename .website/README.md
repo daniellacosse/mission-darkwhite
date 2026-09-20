@@ -18,13 +18,13 @@ You may find it tricky to aim - try firing with both weapons simultaneously!
 
 ## Controls
 
-| Key | Action |
+| Input | Action |
 | --- | --- |
-| Mouse Cursor | Aim |
+| Mouse Cursor | Aim weapons |
 | `LMB` | Fire left weapon |
 | `RMB` | Fire right weapon |
-| `WASD` | Strafe |
-| `Space` | Deflect bullets back at your attackers |
+| `WASD` | Strafe Ship |
+| `Space` | Deflect bullets |
 | `F` | Pause the game and manage your collected items |
 
 ### Concepts
