@@ -13,7 +13,7 @@ MISSION: DARKWHITE is a genre experiment that combines rail shooting (e.g. StarF
 
 Defeat the waves of incoming enemies. Similarly-colored items in the shape of _your_ ship will drop and float towards you - **keep a sharp eye out and grab them!** 
 
-_These items are key to beating the game_ - you can EQUIP them to power up your ship or RESTORE your character to the full colors of the rainbow!
+_These items are key to beating the game_ - you can EQUIP them to power up your ship or use several to RESTORE your character to the full colors of the rainbow!
 
 Also, you may find it tricky to aim - this is an intentional skill for you to master. Firing both weapons at the same time makes it easier!
 
